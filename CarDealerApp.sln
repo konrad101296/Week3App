@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealerAppMenu", "CarDealerApp\CarDealerAppMenu.csproj", "{6BFC0969-3F92-4041-81CC-7E837ED9C19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealerAppManagement", "CarDealerAppManagement\CarDealerAppManagement.csproj", "{EB53F2B9-1178-42C8-9832-F14A9751BD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFC0969-3F92-4041-81CC-7E837ED9C19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFC0969-3F92-4041-81CC-7E837ED9C19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFC0969-3F92-4041-81CC-7E837ED9C19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFC0969-3F92-4041-81CC-7E837ED9C19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB53F2B9-1178-42C8-9832-F14A9751BD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB53F2B9-1178-42C8-9832-F14A9751BD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB53F2B9-1178-42C8-9832-F14A9751BD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB53F2B9-1178-42C8-9832-F14A9751BD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C56C69-2EF4-4DC5-9771-23D4860E8044}
+	EndGlobalSection
+EndGlobal
